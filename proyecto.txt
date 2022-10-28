@@ -1,0 +1,9 @@
+-nombre del proyecto:  inmobiliaria cipol
+-descripcion del proyecto: ¿de que tratara? ¿a quien va destinado?
+-objetivo del proyecto
+-secciones que tendra el sitio web. enumararias segun su importancia
+-recursos necesarios para conseguir texto e imagenes.
+flaticon.com (iconos)
+pixabay.com (imagenes)
+
+-paleta de colores
