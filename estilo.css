@@ -1,19 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 *{
     margin: 0%;
     padding: 0%;
 }
 header{
     background-color: black;
-   
+    font-family: 'Oswald', sans-serif;
+  
 }
-
 .navbar a{
-    color: rgb(255, 255, 255);
+    color: rgb(255, 230, 0);
+}
+.navbar a:focus{
+    color: rgb(241, 99, 33);
 }
 .nav-link a{
     color: gold;
 }
 .nav-link:hover{
-    color: tomato;
+    color: rgb(241, 186, 33);
+}
+.navbar-brand:hover{
+    color: rgb(241, 186, 33);
+}
+.navbar-brand img{
+    margin-right: 5%;
+}
+.navbar-brand {
+    text-transform: uppercase;
+}
+.dropdown-menu li{
+    background-color: rgb(0, 0, 0);
 }
 
+.dropdown-item:active{
+    background-color: chartreuse;
+}
+.dropdown-item:hover{
+    background-color: white;
+}
